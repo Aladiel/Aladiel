@@ -27,7 +27,7 @@ Actuellement, je développe un jeu incremental inspiré de *Magic Research*, et 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 **Frameworks & outils** :  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
