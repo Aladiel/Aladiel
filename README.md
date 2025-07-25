@@ -42,15 +42,15 @@ Actuellement, je développe un jeu incremental inspiré de *Magic Research*, et 
 
 ## 🚀 Projets récents
 
-### 📚 [EduQuizAI](https://github.com/Aladiel/EduQuizAI) - Work in Progress
+### 📚 [EduQuizAI](https://github.com/Aladiel/Squizz) - Work in Progress
 Plateforme d'évaluation interactive (React + Django + MongoDB), sécurité renforcée (auth JWT, hashing), conteneurisée avec Docker.  
 → Objectif : permettre à un formateur de créer et gérer des quiz dynamiques.
 
-### 🧙‍♂️ [Magic Research Game](https://github.com/Aladiel/MagicResearchGame) - Work in Progress
+### 🧙‍♂️ [Magic Research Game](https://github.com/Aladiel/MagicReaserchLike/tree/master) - Work in Progress
 Jeu incremental RPG en Flask, architecture OOP propre, système de magie complexe avec progression passive, craft, exploration...
 
-### ✅ [CheckListPro](https://github.com/Aladiel/CheckListPro)
-Application Flask pour créer, remplir et archiver des checklists intelligentes. Gestion de modèles, commentaires persistants, historique...
+### ✅ [Projet FAQ](https://github.com/Aladiel/CheckListPro)
+Application Django pour générer des FAQs à partir de PDFs uploadé à partir d'une IA intégrée (via Ollama), avec système avancé d'authentification et de sécurité.
 
 ---
 
@@ -64,7 +64,7 @@ Application Flask pour créer, remplir et archiver des checklists intelligentes.
 
 ## 📬 Me contacter
 
-- [LinkedIn]([https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/jonathan-mougin-dev/))
+- [LinkedIn](https://www.linkedin.com/in/jonathan-mougin-dev/)
 - Email : **jonathan.mougin0@gmail.com**
 - Disponible pour un **stage backend Python / IA** dès **septembre 2025**, en **Moselle ou Luxembourg**
 
