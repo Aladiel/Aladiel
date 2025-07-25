@@ -25,14 +25,14 @@ Actuellement, je développe un jeu incremental inspiré de *Magic Research*, et 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 **Frameworks & outils** :  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)  
 **IDE**
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
