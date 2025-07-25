@@ -49,7 +49,7 @@ Plateforme d'évaluation interactive (React + Django + MongoDB), sécurité renf
 ### 🧙‍♂️ [Magic Research Game](https://github.com/Aladiel/MagicReaserchLike/tree/master) - Work in Progress
 Jeu incremental RPG en Flask, architecture OOP propre, système de magie complexe avec progression passive, craft, exploration...
 
-### ✅ [Projet FAQ](https://github.com/Aladiel/CheckListPro)
+### ✅ [Projet FAQ](https://github.com/Aladiel/Faq_Rag_Pdf/tree/main)
 Application Django pour générer des FAQs à partir de PDFs uploadé à partir d'une IA intégrée (via Ollama), avec système avancé d'authentification et de sécurité.
 
 ---
