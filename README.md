@@ -9,7 +9,7 @@
 
 ## 🧾 À propos de moi
 
-Je suis en reconversion vers le développement web, avec un fort attrait pour les projets mêlant Python, IA, cybersécurité et jeux vidéo.  
+Je suis en reconversion vers le développement backend surtout, avec un fort attrait pour les projets mêlant Python, IA, cybersécurité et jeux vidéo.  
 Je développe des projets orientés backend, avec des architectures claires et des API sécurisées.  
 Actuellement, je développe un jeu incremental inspiré de *Magic Research*, et je me perfectionne en Django, React, MongoDB et Docker.
 
